@@ -38,7 +38,7 @@ For this capstone project, I will utilize two well-curated datasets:
 •	It integrates 11 common features, making it the largest heart disease dataset currently available for research, with a focus on cardiovascular conditions.
 Rationale:
 Using Azure ML, these datasets will be merged to provide a unified source for an in-depth analysis of the relationship between diabetes, socio-economic factors, and heart disease. This combination leverages the strengths of both datasets to support comprehensive analysis and actionable insights.
-![image](https://github.com/user-attachments/assets/c816674f-fbdc-4da3-b18f-a4116be4c87d)
+
 # High level architecture diagram
 ![Blank diagram](https://github.com/user-attachments/assets/67c4113f-504a-4a89-ba23-2d37ada963b4)
 
